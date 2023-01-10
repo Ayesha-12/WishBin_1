@@ -3,8 +3,8 @@ Our project- WishBin is an API-based e-commerce website with a range of services
 
 
 # Project-Members
-      * Trina Chakraborty                   * Ayesha Afroze
-        email: trinasustcse41@gmail.com       email: ayeshaafroze1571@gmail.com
+        * Ayesha Afroze                       * Trina Chakraborty  
+        email: ayeshaafroze1571@gmail.com      email: trinasustcse41@gmail.com
         
 ## Tools
 * Vscode
